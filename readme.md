@@ -1,3 +1,4 @@
-Name: David
-ID: 12345678
-file:///Users/davidye/Desktop/Image.png
+Name: David\n
+ID: 12345678\n
+![Image of commit]
+(file:///Users/davidye/Desktop/Image.png)
